@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">photogenic</string>
+    <string name="app_name">Photogenic</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_user_profile">My Profile</string>
+    <string name="title_ex_item">Ex Item</string>
+    <string name="title_exercises">Exercises Category #</string>
+    <string name="title_categories">Categories</string>
+    <string name="hint_word">Photo...</string>
+    <string name="button_save">Save</string>
+    <string name="title_my_photos">My Photos</string>
+    <string name="empty_not_saved">Photo not saved because it is empty.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_photos_list">Category</string>
+
 </resources>
