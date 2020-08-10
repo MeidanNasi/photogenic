@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <item
+        android:id="@+id/delete_button"
+        android:title="Delete"
+        android:orderInCategory="10"
+        android:icon="@drawable/delete"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/save_button"
+        android:title="Save"
+        android:orderInCategory="10"
+        android:icon="@drawable/save"
+        app:showAsAction="ifRoom" />
+</menu>

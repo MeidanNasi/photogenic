@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "144866515409",
+    "firebase_url": "https://photogenic-4400f.firebaseio.com",
+    "project_id": "photogenic-4400f",
+    "storage_bucket": "photogenic-4400f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144866515409:android:0bcba90776bbd705f3e8f0",
+        "android_client_info": {
+          "package_name": "com.colman.photogenic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144866515409-270hc551dq1v98brevoj5uqg3l8mpl2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdDa5QvvCNcyOPuuR06dA-zPVIhQTRGD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144866515409-270hc551dq1v98brevoj5uqg3l8mpl2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
